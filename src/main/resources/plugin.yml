@@ -1,0 +1,3 @@
+name: Pvpbot
+version: '${project.version}'
+main: cf.exyrus.pvpbot.Pvpbot
